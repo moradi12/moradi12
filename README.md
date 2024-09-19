@@ -54,6 +54,14 @@ An **advanced queue management system** aimed at optimizing customer service. Th
   - Multi-threaded processing for efficient queue handling.
   - JWT for secure user interactions and data protection.
 
+### [MyPortfolio](https://github.com/moradi12/MyPortfolio)
+A **personal portfolio website** that showcases my skills, projects, and professional experience. This project highlights the use of **modern CSS techniques** and a responsive design to ensure an optimal viewing experience across all devices.
+- **Tech Stack:** CSS, JavaScript, HTML, TypeScript
+- **Key Features:**
+  - Responsive design with CSS Grid and Flexbox.
+  - Interactive components built with JavaScript.
+  - Clean and professional layout to highlight work and achievements.
+
 ## Currently Learning
 - Advanced TypeScript Patterns
 - Microservices Architecture with Node.js
