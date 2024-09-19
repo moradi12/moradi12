@@ -1,4 +1,3 @@
-updated_readme_content = """
 # Tamir Moradi - Full Stack Developer
 
 ![Profile views](https://komarev.com/ghpvc/?username=moradi12&style=flat-square&color=blue)
