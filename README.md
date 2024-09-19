@@ -68,4 +68,4 @@ A **personal portfolio website** that showcases my skills, projects, and profess
 - Docker and Kubernetes for containerized applications
 
 ## How to Reach Me
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tamir-moradi-1a62b0260/) or email me at tamir@example.com for any collaboration or job opportunities.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tamir-moradi-1a62b0260/) or email me at tamirmoradi@gmail.com for any collaboration or job opportunities.
