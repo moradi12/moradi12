@@ -29,11 +29,6 @@ I am a full stack developer specializing in Java, JavaScript, React, and Spring 
 ## Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moradi12&layout=compact&langs_count=8&theme=radical)
 
-## Achievements and Certifications
-- **Certified Java Developer** - Oracle
-- **React and Redux Specialist** - Udemy Certification
-- **Full Stack Web Development** - Completed with distinction
-
 ## Featured Projects
 
 ### [Hotel Project](https://github.com/moradi12/Hotel-Project)
@@ -42,11 +37,11 @@ A comprehensive hotel management system that allows for room booking, service ma
 
 ### [Coupon Project](https://github.com/moradi12/Completed-Coupon-Project)
 A coupon management platform where businesses can create and manage coupons while customers can browse and redeem them. The project includes a robust back-end for handling user authentication, coupon creation, and redemption processes.
-- **Tech Stack:** Node.js, Express, React, MongoDB
+- **Tech Stack:** Node.js, Express, React, MySQL
 
 ### [Queue Management System](#)
 An efficient queue management system designed to streamline customer service. It allows businesses to manage customer queues effectively, reducing wait times and improving the overall customer experience. *(Link coming soon)*
-- **Tech Stack:** Java, Spring, Angular, PostgreSQL
+- **Tech Stack:** Java, Spring, TypeScript, MySQL
 
 ## Currently Learning
 - Advanced TypeScript Patterns
