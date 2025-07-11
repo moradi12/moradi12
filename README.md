@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I am a full stack developer passionate about building modern, efficient, and scalable web applications.
 
 - 📄 Explore my professional journey on [LinkedIn](https://www.linkedin.com/in/tamir-moradi-1a62b0260/)
-- 🌐 Check out my [Portfolio](https://tamirmoradi.netlify.app/)
+- 🌐 Check out my [Portfolio](https://moradi.netlify.app/)
 
 ## About Me
 With expertise in Java, JavaScript, React, and Spring Boot, I specialize in creating efficient and scalable web applications. I am always eager to learn new technologies and enhance my skills. Currently open to new opportunities and excited about working on challenging projects.
