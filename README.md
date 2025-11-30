@@ -2,70 +2,124 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=moradi12&style=flat-square&color=blue)
 
+[![GitHub](https://img.shields.io/badge/GitHub-moradi12-181717?style=for-the-badge&logo=github)](https://github.com/moradi12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tamir--moradi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamir-moradi-1a62b0260/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-moradi.netlify.app-0f172a?style=for-the-badge)](https://moradi.netlify.app/)
+
 Welcome to my GitHub profile! I am a full stack developer passionate about building modern, efficient, and scalable web applications.
 
 - 📄 Explore my professional journey on [LinkedIn](https://www.linkedin.com/in/tamir-moradi-1a62b0260/)
-- 🌐 Check out my [Portfolio](https://moradi.netlify.app/)
+- 🌐 Check out my portfolio: https://moradi.netlify.app/
+
+---
 
 ## About Me
-With expertise in Java, JavaScript, React, and Spring Boot, I specialize in creating efficient and scalable web applications. I am always eager to learn new technologies and enhance my skills. Currently open to new opportunities and excited about working on challenging projects.
+I love creating clean, efficient systems and solving complex technical problems with elegant code.
+
+With expertise in Java, JavaScript, React, and Spring Boot, I specialize in creating efficient and scalable web applications.  
+I currently work as a Tier 2 Technical Support Specialist for the Glassix omnichannel communication platform at Consist Software Solutions, where I handle complex technical incidents, APIs, and integrations while continuously improving my full stack development skills.  
+I am always eager to learn new technologies and enhance my skills, and I am open to new opportunities and challenging projects.
+
+## Tech Stack Overview
+**Frontend:** React, TypeScript, JavaScript, HTML, CSS  
+**Backend:** Java, Spring Boot, Node.js (basics), Supabase, Spring  
+**Databases:** MySQL, Supabase (PostgreSQL)  
+**Dev Tools:** Git, Postman, Docker (learning), IntelliJ IDEA, VS Code  
+**Cloud & Hosting:** Netlify, Vercel, Render
+
+## Current Role – Tier 2 Technical Support Specialist (Consist / Glassix)
+In my current position I combine deep technical troubleshooting with product understanding and customer-facing skills:
+
+- Own investigation and resolution of complex Tier 2 incidents for the Glassix omnichannel communication platform.
+- Troubleshoot REST APIs, webhooks, and integrations (WhatsApp Business, email, CRM, e-commerce) using logs, Postman, and browser DevTools.
+- Collaborate closely with R&D, DevOps, and Product teams to reproduce bugs, define impact, and drive permanent fixes.
+- Provide clear technical explanations, status updates, and workarounds to customers and internal stakeholders.
+- Create and refine internal runbooks and knowledge base articles to standardize troubleshooting flows.
+- Validate bug fixes and new features in staging environments before they are released to production.
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamir-moradi-1a62b0260/)
 
 ## Languages and Tools
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
 </p>
+
+## GitHub Stats
+![Tamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=moradi12&show_icons=true&theme=radical)
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moradi12&layout=compact&langs_count=8&theme=radical)
 
 ## Featured Projects
 
-### [Hotel Project](https://github.com/moradi12/Hotel-Project)
-A **full-featured hotel management system** offering room booking, service management, and customer interactions. This project emphasizes **real-time room availability** and **user authentication** for both guests and administrators.
-- **Tech Stack:** Java, Spring Boot, React, MySQL, JWT, Threads
+### [YogaIL – Shirly](https://yogail.netlify.app/)
+A modern, elegant website built for a yoga instructor, highlighting classes, schedules, and personal branding. Designed for clarity, simplicity, and a calm user experience.  
+- **Tech Stack:** TypeScript, HTML, CSS, Supabase  
 - **Key Features:**
-  - Real-time booking management with concurrency handling using threads.
+  - Fully responsive layout for mobile and desktop.
+  - Clean, soft visual design tailored for wellness and fitness.
+  - Easy-to-navigate structure showcasing instructor details and services.
+
+### [Hotel Project](https://github.com/moradi12/Hotel-Project)
+A full-featured hotel management system offering room booking, service management, and customer interactions. This project emphasizes real-time room availability and user authentication for both guests and administrators.  
+- **Tech Stack:** Java, JavaScript, Spring Boot, React, MySQL, JWT, Threads  
+- **Key Features:**
+  - Real-time booking management with concurrency handling.
   - Secure user authentication with JWT.
-  - Seamless admin and user interfaces for efficient hotel management.
+  - Efficient admin and user interfaces.
+
+### [Recipe Book](https://github.com/moradi12/Recipe-Book)
+A user-friendly recipe management application that allows users to browse, view, and organize their favorite recipes in one place.  
+- **Tech Stack:** React, TypeScript, CSS, Spring Boot  
+- **Key Features:**
+  - Structured recipe view with clear separation of ingredients and preparation steps.
+  - Search and filtering options to quickly find specific recipes.
+  - Clean and responsive UI focused on readability and ease of use.
+  - Full stack structure with a Spring Boot backend.
+
+### [MyPortfolio](https://github.com/moradi12/MyPortfolio)  
+Live version: https://moradi.netlify.app/  
+A personal portfolio website showcasing my skills, projects, and professional experience in a clean, modern layout.  
+- **Tech Stack:** HTML, CSS, TypeScript  
+- **Key Features:**
+  - Fully responsive layout using CSS Grid and Flexbox.
+  - Interactive TypeScript-based UI components.
+  - Modern, minimalist aesthetic to highlight work clearly.
 
 ### [Coupon Project](https://github.com/moradi12/Completed-Coupon-Project)
-A **comprehensive coupon management platform** designed for businesses to create, manage, and track coupon campaigns. This project stands out with its **user-friendly interface** and **secure redemption tracking**.
-- **Tech Stack:** Java, TypeScript, React, MySQL, JWT, Threads
+A comprehensive coupon management platform designed for businesses to create, manage, and track coupon campaigns.  
+- **Tech Stack:** Java, TypeScript, React, MySQL, JWT, Threads  
 - **Key Features:**
-  - Secure and scalable coupon creation and redemption process.
-  - JWT-based authentication for user roles and permissions.
-  - Efficient handling of concurrent coupon usage with threading.
+  - Secure and scalable coupon creation and redemption.
+  - JWT-based role and permission management.
+  - Thread-safe handling of concurrent coupon usage.
 
-### [Queue Management System](#)
-An **advanced queue management system** aimed at optimizing customer service. This project is particularly focused on **efficient queue handling** and **customer notifications** to enhance the overall user experience. *(Link coming soon)*
-- **Tech Stack:** Java, Spring, TypeScript, MySQL, JWT, Threads
-- **Key Features:**
-  - Real-time queue management with customer notifications.
-  - Multi-threaded processing for efficient queue handling.
-  - JWT for secure user interactions and data protection.
+## What I Am Working On
+- Expanding the Recipe Book project with more backend features and structure in Spring Boot.
+- Building and refining production-ready sites such as YogaIL and portfolio improvements.
+- Learning and applying advanced Spring Boot and TypeScript patterns in personal projects.
 
-### [MyPortfolio](https://github.com/moradi12/MyPortfolio)
-A **personal portfolio website** that showcases my skills, projects, and professional experience. This project highlights the use of **modern CSS techniques** and a responsive design to ensure an optimal viewing experience across all devices.
-- **Tech Stack:** CSS, JavaScript, HTML, TypeScript
-- **Key Features:**
-  - Responsive design with CSS Grid and Flexbox.
-  - Interactive components built with JavaScript.
-  - Clean and professional layout to highlight work and achievements.
+## Highlights
+- Resolved complex API and webhook issues as a Tier 2 specialist for a SaaS omnichannel platform.
+- Built multiple full-stack projects using Java, Spring Boot, React, TypeScript, and MySQL.
+- Developed and deployed real-world portfolio and client-facing websites on Netlify.
+
+## Certificates / Courses
+- [The Complete Web Development Bootcamp – Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=CP251129CMG2) – In Progress  
+- [Python Course From Zero to Hero – Intermediate Level – Udemy](https://www.udemy.com/course/python-course-from-zero-to-hero-intermediate-level/?couponCode=CP251129CMG2) – In Progress  
 
 ## Currently Learning
-- Advanced TypeScript Patterns
-- Microservices Architecture with Node.js
-- Docker and Kubernetes for containerized applications
+- Advanced TypeScript patterns  
+- Microservices architecture with Node.js  
+- Docker and Kubernetes for containerized applications  
 
 ## How to Reach Me
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tamir-moradi-1a62b0260/) or email me at tamirmoradi@gmail.com for any collaboration or job opportunities.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tamir-moradi-1a62b0260/) or email me at **tamirmoradi@gmail.com** for collaborations or job opportunities.
